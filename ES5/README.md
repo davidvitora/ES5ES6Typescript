@@ -1,0 +1,1 @@
+Para rodar o exemplo de classes do ES5, abra a linha de comando dentro da pasta ES5  e execute o comando 'npm start' sem aspas

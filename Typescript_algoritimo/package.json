@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "algoritimo.js",
+  "scripts": {
+    "start": "tsc && node algoritimo.js"
+  },
+  "author": "David Vitor Antonio",
+  "license": "ISC",
+  "description": "Para rodar o exemplo de classes do ES6, abra a linha de comando dentro da pasta ES6 e execute o comando 'npm start' sem aspas"
+}
